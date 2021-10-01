@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/sm_demo?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&useSSL=true
+    username: root
+    password: 1234
+  thymeleaf:
+    #    prefix: classpath:/templates/
+    cache: false
+  mvc:
+    favicon:
+      enabled: false
+    date-format: yyyy-MM-dd
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+#  mvc:
+#    favicon:
+#      enabled: false

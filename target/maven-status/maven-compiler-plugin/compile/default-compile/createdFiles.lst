@@ -1,0 +1,15 @@
+com\demo\config\HellooConfig.class
+com\demo\mapper\Booksmapper.class
+com\demo\LoginApplication.class
+com\demo\Serveict\BooksServicet.class
+com\demo\mapper\StafcMapper.class
+com\demo\bean\Books.class
+com\demo\bean\Staff.class
+com\demo\Serveict\Impl\BooksServicetImp.class
+com\demo\Controller\StaffController.class
+com\demo\Serveict\StaffServeict.class
+com\demo\Controller\indexcontroller.class
+com\demo\mapper\LoginMapper.class
+com\demo\Serveict\Impl\StaffServeictImp.class
+com\demo\config\LoginHandl.class
+com\demo\Controller\EmpsController.class
